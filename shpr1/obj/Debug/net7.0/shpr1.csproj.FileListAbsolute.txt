@@ -1,0 +1,14 @@
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.AssemblyInfoInputs.cache
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.AssemblyInfo.cs
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.csproj.CoreCompileInputs.cache
+D:\RiderPojects\shpr1\bin\Debug\net7.0\shpr1.exe
+D:\RiderPojects\shpr1\bin\Debug\net7.0\shpr1.deps.json
+D:\RiderPojects\shpr1\bin\Debug\net7.0\shpr1.runtimeconfig.json
+D:\RiderPojects\shpr1\bin\Debug\net7.0\shpr1.dll
+D:\RiderPojects\shpr1\bin\Debug\net7.0\shpr1.pdb
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.dll
+D:\RiderPojects\shpr1\obj\Debug\net7.0\refint\shpr1.dll
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.pdb
+D:\RiderPojects\shpr1\obj\Debug\net7.0\shpr1.genruntimeconfig.cache
+D:\RiderPojects\shpr1\obj\Debug\net7.0\ref\shpr1.dll
