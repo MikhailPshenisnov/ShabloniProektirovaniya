@@ -11,7 +11,6 @@ public class TextFileReader : IReader
         var line = streamReader.ReadLine();
         while (line is not null)
         {
-            Console.WriteLine(line);
             if (line.Split(';')[0] == number.ToString())
             {
                 return line.Split(';')[1];

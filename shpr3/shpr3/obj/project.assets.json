@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\misha\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RiderPojects\\ShabloniProektirovaniya\\shpr3\\shpr3\\shpr3.csproj",
+      "projectUniqueName": "C:\\Users\\misha\\RiderProjects\\ShabloniProektirovaniya\\shpr3\\shpr3\\shpr3.csproj",
       "projectName": "shpr3",
-      "projectPath": "D:\\RiderPojects\\ShabloniProektirovaniya\\shpr3\\shpr3\\shpr3.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\RiderPojects\\ShabloniProektirovaniya\\shpr3\\shpr3\\obj\\",
+      "projectPath": "C:\\Users\\misha\\RiderProjects\\ShabloniProektirovaniya\\shpr3\\shpr3\\shpr3.csproj",
+      "packagesPath": "C:\\Users\\misha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\misha\\RiderProjects\\ShabloniProektirovaniya\\shpr3\\shpr3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\misha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

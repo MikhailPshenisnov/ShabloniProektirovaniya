@@ -26,3 +26,17 @@ D:\RiderPojects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\refint\shpr
 D:\RiderPojects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.pdb
 D:\RiderPojects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.genruntimeconfig.cache
 D:\RiderPojects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\ref\shpr2.dll
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\bin\Debug\net7.0\shpr2.exe
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\bin\Debug\net7.0\shpr2.deps.json
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\bin\Debug\net7.0\shpr2.runtimeconfig.json
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\bin\Debug\net7.0\shpr2.dll
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\bin\Debug\net7.0\shpr2.pdb
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.AssemblyInfoInputs.cache
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.AssemblyInfo.cs
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.csproj.CoreCompileInputs.cache
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.dll
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\refint\shpr2.dll
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.pdb
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\shpr2.genruntimeconfig.cache
+C:\Users\misha\RiderProjects\ShabloniProektirovaniya\shpr2\shpr2\obj\Debug\net7.0\ref\shpr2.dll
