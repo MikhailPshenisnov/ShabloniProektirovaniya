@@ -1,0 +1,14 @@
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\bin\Debug\net7.0\shpr3.exe
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\bin\Debug\net7.0\shpr3.deps.json
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\bin\Debug\net7.0\shpr3.runtimeconfig.json
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\bin\Debug\net7.0\shpr3.dll
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\bin\Debug\net7.0\shpr3.pdb
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.AssemblyInfoInputs.cache
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.AssemblyInfo.cs
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.csproj.CoreCompileInputs.cache
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.dll
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\refint\shpr3.dll
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.pdb
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\shpr3.genruntimeconfig.cache
+D:\RiderPojects\ShabloniProektirovaniya\shpr3\shpr3\obj\Debug\net7.0\ref\shpr3.dll
