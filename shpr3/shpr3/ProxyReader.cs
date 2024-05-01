@@ -1,33 +1,32 @@
 ﻿namespace shpr3;
 
-public class ProxyReader: IReader
+public class ProxyReader : IReader
 {
-    private TextFileReader? _textFileReader;
-    private Dictionary<string, string> _users;
+    private TextFileReader? _textFileReader; // Считыватель данных из файла
+    public Dictionary<string, string> Users { get; set; } // Словарь для кеша
 
     public ProxyReader()
     {
-        _users = new Dictionary<string, string>();
+        Users = new Dictionary<string, string>();
     }
-    
+
     public string ReadLine(int number)
     {
-        string? result;
-        if (_users.ContainsKey(number.ToString()))
-        {
-            result = _users[number.ToString()];
-        }
-        else
-        {
-            result = null;
-        }
-
+        // Считывание данных из кеша, если они есть
+        var result = Users.ContainsKey(number.ToString()) ? Users[number.ToString()] : null; 
         if (result is not null) return result;
-        
+
+        // Если данных не нашлось, то следует обращение к файлу
         _textFileReader ??= new TextFileReader();
+        
+        // Чтение из файла без мгновенного кеширования и кеширование только результата
         result = _textFileReader.ReadLine(number);
-        _users.Add(number.ToString(), result);
-        return result;
+        Users.Add(number.ToString(), result);
+        
+        // Чтение из файла с мгновенным кешированием
+        // result = _textFileReader.ReadLineWithCash(number, this);
+
+        return result; // Возвращение нужного значения
     }
 
     public void Dispose()
