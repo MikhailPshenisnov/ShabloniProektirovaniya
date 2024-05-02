@@ -1,6 +1,5 @@
 ﻿using shpr3;
 
-
 using (IReader users = new ProxyReader())
 {
     try

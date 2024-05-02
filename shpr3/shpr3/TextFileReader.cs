@@ -23,7 +23,7 @@ public class TextFileReader : IReader
     }
 
     // Поиск необходимой записи в файле (перебором) с мгновенным кешированием
-    public string ReadLineWithCash(int number, ProxyReader proxyReader)
+    public string ReadLineWithCash(int number, Dictionary<string, string> users)
         // В функцию передается ссылка на словарь с кешированными данными, чтобы записывать данные сразу при переборе
     {
         Console.WriteLine("Открыт файл"); // Сообщение для отслеживания открытия файла
@@ -33,8 +33,8 @@ public class TextFileReader : IReader
         while (line is not null) // Перебор всех строк
         {
             // Если в словаре еще нет записи для считанной строки, то для нее создается запись
-            if (!proxyReader.Users.ContainsKey(line.Split(';')[0]))
-                proxyReader.Users.Add(line.Split(';')[0], line.Split(';')[1]);
+            if (!users.ContainsKey(line.Split(';')[0]))
+                users.Add(line.Split(';')[0], line.Split(';')[1]);
 
             if (line.Split(';')[0] == number.ToString())
             {

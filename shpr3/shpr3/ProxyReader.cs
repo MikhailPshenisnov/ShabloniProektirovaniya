@@ -2,8 +2,8 @@
 
 public class ProxyReader : IReader
 {
-    private TextFileReader? _textFileReader; // Считыватель данных из файла
-    public Dictionary<string, string> Users { get; set; } // Словарь для кеша
+    private TextFileReader? TextFileReader { get; set; } // Считыватель данных из файла
+    private Dictionary<string, string> Users { get; set; } // Словарь для кеша
 
     public ProxyReader()
     {
@@ -17,20 +17,20 @@ public class ProxyReader : IReader
         if (result is not null) return result;
 
         // Если данных не нашлось, то следует обращение к файлу
-        _textFileReader ??= new TextFileReader();
+        TextFileReader ??= new TextFileReader();
         
         // Чтение из файла без мгновенного кеширования и кеширование только результата
-        result = _textFileReader.ReadLine(number);
-        Users.Add(number.ToString(), result);
+        // result = _textFileReader.ReadLine(number);
+        // Users.Add(number.ToString(), result);
         
         // Чтение из файла с мгновенным кешированием
-        // result = _textFileReader.ReadLineWithCash(number, this);
+        result = TextFileReader.ReadLineWithCash(number, Users);
 
         return result; // Возвращение нужного значения
     }
 
     public void Dispose()
     {
-        _textFileReader?.Dispose();
+        TextFileReader?.Dispose();
     }
 }
